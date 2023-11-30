@@ -1,0 +1,13 @@
+// components/About.js
+import React from 'react';
+
+const About = () => {
+  return (
+    <div>
+      <h2>About Page</h2>
+      <p>This is the About Page with some information about the application.</p>
+    </div>
+  );
+};
+
+export default About;
